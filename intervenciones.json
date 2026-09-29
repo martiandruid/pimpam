@@ -1,0 +1,143 @@
+{
+  "cirugias": [
+    {
+      "id": "manguito_rotador_fase1",
+      "nombre": "Reparación de Manguito Rotador (Semanas 0 - 6)",
+      "items": [
+        {
+          "id": "flexion_pasiva_90",
+          "criterio": "Alcanzar 90° de flexión pasiva sin dolor agudo punzante",
+          "causas_no_cumplimiento": [
+            "Rigidez capsular o capsulitis adhesiva secundaria a inmovilización rígida.",
+            "Apresamiento subacromial por edema persistente en la bursa.",
+            "Baja adherencia del paciente al protocolo de ejercicios pasivos en domicilio.",
+            "Espasmo muscular antálgico de la musculatura periescapular y pectoral mayor."
+          ]
+        },
+        {
+          "id": "rotacion_externa_20",
+          "criterio": "Alcanzar al menos 20° de rotación externa pasiva (con brazo en pegado al cuerpo)",
+          "causas_no_cumplimiento": [
+            "Excesiva tensión estructural de la sutura Quirúrgica (reparación a tensión).",
+            "Contractura o acortamiento del músculo subescapular.",
+            "Temor o falta de tolerancia del paciente a la movilización pasiva."
+          ]
+        },
+        {
+          "id": "eva_reposo_3",
+          "criterio": "Nivel de dolor EVA < 3/10 en reposo nocturno",
+          "causas_no_cumplimiento": [
+            "Proceso inflamatorio agudo persistente en el lecho quirúrgico.",
+            "Uso inadecuado del cabestrillo o falta de soporte mediante almohadas al dormir.",
+            "Tensión o tracción sobre los anclajes de la sutura al intentar movimientos activos tempranos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "manguito_rotador_fase2",
+      "nombre": "Reparación de Manguito Rotador (Semanas 6 - 12)",
+      "items": [
+        {
+          "id": "flexion_activa_120",
+          "criterio": "Alcanzar 120° de flexión activa con buen ritmo escapulotorácico",
+          "causas_no_cumplimiento": [
+            "Inhibición artrogénica del supraespinoso/deltoides por dolor persistente.",
+            "Discinesia escapular (falta de activación del trapecio inferior y serrato anterior).",
+            "Atrofia muscular e infiltración grasa previa al procedimiento quirúrgico."
+          ]
+        },
+        {
+          "id": "control_escapular",
+          "criterio": "Ausencia de báscula o campaneo escapular compensatorio al elevar el brazo",
+          "causas_no_cumplimiento": [
+            "Debilidad severa o retraso en la reclutación del serrato anterior.",
+            "Dominancia compensatoria y sobrecarga del trapecio superior.",
+            "Falta de reeducación propioceptiva e integración neuromuscular."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lca_fase1",
+      "nombre": "Reconstrucción de Ligamento Cruzado Anterior (Semanas 0 - 4)",
+      "items": [
+        {
+          "id": "extension_completa",
+          "criterio": "Extension completa pasiva y activa de rodilla (0° respecto al lado contralateral)",
+          "causas_no_cumplimiento": [
+            "Bloqueo mecánico por edema intraarticular / derrame grave (hemartros).",
+            "Síndrome de Cyclops (proliferación de tejido fibroso/cicatricial en el injerto).",
+            "Uso prolongado de almohadas bajo el hueco poplíteo durante el reposo.",
+            "Inhibición del cuádriceps que impide el bloqueo activo terminal."
+          ]
+        },
+        {
+          "id": "flexion_90",
+          "criterio": "Alcanzar 90° de flexión activa de rodilla en la semana 2",
+          "causas_no_cumplimiento": [
+            "Adherencias en el rincón femororrotuliano o retináculos.",
+            "Restricción quirúrgica adicional por reparación o sutura meniscal asociada.",
+            "Derrame articular a tensión que limita el espacio capsular."
+          ]
+        },
+        {
+          "id": "activacion_vmo",
+          "criterio": "Capacidad de realizar elevación de pierna recta (SLR) sin rezago extensor (lag)",
+          "causas_no_cumplimiento": [
+            "Inhibición Muscular Artrogénica (AMI) del vasto medial interno del cuádriceps.",
+            "Dolor fémoro-patelar agudo durante la contracción isométrica.",
+            "Derrame articular superior a 15-20 ml que desactiva el reclutamiento del cuádriceps."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sutura_meniscal",
+      "nombre": "Sutura o Reparación Meniscal (Semanas 0 - 6)",
+      "items": [
+        {
+          "id": "carga_parcial_autorizada",
+          "criterio": "Carga parcial estricta con muletas según prescripción quirúrgica",
+          "causas_no_cumplimiento": [
+            "Mala comprensión o falta de instrucción en el uso de bastones ingleses.",
+            "Falta de tolerancia al apoyo por dolor focal en la línea articular.",
+            "Inestabilidad percibida o fallo articular en la puesta en carga."
+          ]
+        },
+        {
+          "id": "flexion_limitada_90",
+          "criterio": "Flexión limitada a máximo 90° para proteger la sutura meniscal",
+          "causas_no_cumplimiento": [
+            "Incumplimiento por parte del paciente (forzar flexión en hiperflexión/en cuclillas).",
+            "Falta de tope mecánico en la ortesis articulada de rodilla (donjoy)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "osteosintesis_tobillo",
+      "nombre": "Osteosíntesis de Tobillo / Fractura Bimaleolar (Semanas 2 - 8)",
+      "items": [
+        {
+          "id": "dorsiflexion_neutra",
+          "criterio": "Alcanzar posición neutra (0°) de dorsiflexión de tobillo",
+          "causas_no_cumplimiento": [
+            "Acortamiento adaptativo y rigidez del complejo sóleo-gemelos por la férula/yeso.",
+            "Deslizamiento anterior limitado del astrágalo sobre la mortaja tibioperonea.",
+            "Edema maleolar e induración de tejidos blandos periarticulares."
+          ]
+        },
+        {
+          "id": "movilidad_dedos_pie",
+          "criterio": "Flexoextensión completa de los dedos del pie sin dolor ni parestesias",
+          "causas_no_cumplimiento": [
+            "Atrapamiento o irritación quirúrgica del nervio tibial o peroneo.",
+            "Edema distal grave por falta de declive/elevación de la extremidad.",
+            "Adherencias en los tendones flexores/extensores largos de los dedos."
+          ]
+        }
+      ]
+    }
+  ]
+}
