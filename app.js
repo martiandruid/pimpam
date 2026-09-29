@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
   let db = [];
 
   // Cargar datos desde el JSON local
-  fetch('./data/intervenciones.json')
+  fetch('./intervenciones.json')
     .then(res => res.json())
     .then(data => {
       db = data.cirugias;
