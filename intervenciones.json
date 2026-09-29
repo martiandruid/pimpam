@@ -1,0 +1,17 @@
+{
+  "cirugias": [
+    {
+      "nombre": "Operación de Rodilla (LCA)",
+      "items": [
+        {
+          "criterio": "Estirar la rodilla del todo (0 grados)",
+          "causas_fallo": [
+            "Tiene mucho líquido/inflamación en la articulación.",
+            "Le duele mucho y pone la pierna dura.",
+            "No ha hecho los ejercicios en su casa."
+          ]
+        }
+      ]
+    }
+  ]
+}
